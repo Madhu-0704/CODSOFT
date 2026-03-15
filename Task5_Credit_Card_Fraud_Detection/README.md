@@ -3,7 +3,7 @@
 This project detects fraudulent credit card transactions using machine learning.
 
 ## Dataset Used
-- creditcard.csv
+- creditcard.csv (Dataset removed from GitHub because file size exceeds GitHub limit.)
 
 ## Tools Used
 - Python
@@ -19,5 +19,3 @@ This project detects fraudulent credit card transactions using machine learning.
 ## Terminal Output
 Fraud Detection Accuracy: 0.9982
 
-## Important NotSe
-Dataset removed from GitHub because file size exceeds GitHub limit.
